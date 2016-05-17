@@ -28,7 +28,7 @@ cd 5-selectors
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-8-Pseudoclasses)
 
 
 ![screenshot](pseudoclasses-screenshot.jpg)
