@@ -24,7 +24,7 @@ NSS Front-End Milestone 1 (Static Web) Exercise 8:
 
 ``` 
 git clone https://github.com/MeganCFord/NSS-SW-8-Pseudoclasses.git
-cd 5-selectors
+cd 8-pseudoclasses/
 open index.html
 ```
 
